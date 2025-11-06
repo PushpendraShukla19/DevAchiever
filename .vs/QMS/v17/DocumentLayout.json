@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Skeleton\\QMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\views\\quiz\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\views\\quiz\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\wwwroot\\assets\\css\\certificate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\wwwroot\\assets\\css\\certificate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\views\\quiz\\startcertification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\views\\quiz\\startcertification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\models\\certificationquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\models\\certificationquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\repositoryservices\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\repositoryservices\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\dal\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\dal\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\dal\\certificates.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\dal\\certificates.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|e:\\skeleton\\qms\\qms\\models\\certificates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0021BAC7-7B6B-4B85-93C7-CA6F46FEDFCD}|QMS\\QMS.csproj|solutionrelative:qms\\models\\certificates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 53,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Certificates.json",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\DAL\\Certificates.json",
+              "RelativeDocumentMoniker": "QMS\\DAL\\Certificates.json",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\DAL\\Certificates.json",
+              "RelativeToolTip": "QMS\\DAL\\Certificates.json",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T11:33:30.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "certificate.css",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\wwwroot\\assets\\css\\certificate.css",
+              "RelativeDocumentMoniker": "QMS\\wwwroot\\assets\\css\\certificate.css",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\wwwroot\\assets\\css\\certificate.css",
+              "RelativeToolTip": "QMS\\wwwroot\\assets\\css\\certificate.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T13:54:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Views\\Quiz\\Result.cshtml",
+              "RelativeDocumentMoniker": "QMS\\Views\\Quiz\\Result.cshtml",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Views\\Quiz\\Result.cshtml",
+              "RelativeToolTip": "QMS\\Views\\Quiz\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T13:37:22.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.css",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\wwwroot\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "QMS\\wwwroot\\assets\\css\\main.css",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\wwwroot\\assets\\css\\main.css",
+              "RelativeToolTip": "QMS\\wwwroot\\assets\\css\\main.css",
+              "ViewState": "AgIAAN0NAAAAAAAAAAAIwOYNAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T13:25:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T13:10:16.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T13:09:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CertificationQuestion.cs",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Models\\CertificationQuestion.cs",
+              "RelativeDocumentMoniker": "QMS\\Models\\CertificationQuestion.cs",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Models\\CertificationQuestion.cs",
+              "RelativeToolTip": "QMS\\Models\\CertificationQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:37:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Questions.json",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\DAL\\Questions.json",
+              "RelativeDocumentMoniker": "QMS\\DAL\\Questions.json",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\DAL\\Questions.json",
+              "RelativeToolTip": "QMS\\DAL\\Questions.json",
+              "ViewState": "AgIAALMFAAAAAAAAAAAAAMQFAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T12:21:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartCertification.cshtml",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Views\\Quiz\\StartCertification.cshtml",
+              "RelativeDocumentMoniker": "QMS\\Views\\Quiz\\StartCertification.cshtml",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Views\\Quiz\\StartCertification.cshtml",
+              "RelativeToolTip": "QMS\\Views\\Quiz\\StartCertification.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T12:11:58.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CertificateRepository.cs",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\RepositoryServices\\CertificateRepository.cs",
+              "RelativeDocumentMoniker": "QMS\\RepositoryServices\\CertificateRepository.cs",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\RepositoryServices\\CertificateRepository.cs",
+              "RelativeToolTip": "QMS\\RepositoryServices\\CertificateRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvygAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:38:01.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Certificates.cs",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Models\\Certificates.cs",
+              "RelativeDocumentMoniker": "QMS\\Models\\Certificates.cs",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Models\\Certificates.cs",
+              "RelativeToolTip": "QMS\\Models\\Certificates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:36:31.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Views\\Quiz\\Index.cshtml",
+              "RelativeDocumentMoniker": "QMS\\Views\\Quiz\\Index.cshtml",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Views\\Quiz\\Index.cshtml",
+              "RelativeToolTip": "QMS\\Views\\Quiz\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T10:58:19.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "E:\\Skeleton\\QMS\\QMS\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "QMS\\Controllers\\QuizController.cs",
+              "ToolTip": "E:\\Skeleton\\QMS\\QMS\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "QMS\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:57:56.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

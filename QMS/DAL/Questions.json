@@ -1,0 +1,1514 @@
+[
+  {
+    "CertificationId": 1,
+    "CertificationName": "AWS Certified Solutions Architect – Associate",
+    "Questions": [
+      {
+        "QuestionId": 1,
+        "QuestionText": "Which AWS service is primarily used for object storage?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Amazon S3"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Amazon EC2"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "AWS Lambda"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Amazon RDS"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Amazon S3"
+      },
+      {
+        "QuestionId": 2,
+        "QuestionText": "Which AWS service helps you run code without managing servers?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "AWS Lambda"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Amazon EC2"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "AWS Batch"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Elastic Beanstalk"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "AWS Lambda"
+      },
+      {
+        "QuestionId": 3,
+        "QuestionText": "Which database service is fully managed by AWS?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Amazon RDS"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Amazon EC2"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "AWS Fargate"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Amazon SQS"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Amazon RDS"
+      },
+      {
+        "QuestionId": 4,
+        "QuestionText": "Which AWS tool monitors resources and logs metrics?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "CloudWatch"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "CloudTrail"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Inspector"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Config"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "CloudWatch"
+      },
+      {
+        "QuestionId": 5,
+        "QuestionText": "What is AWS IAM used for?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "User and access management"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Monitoring metrics"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Data storage"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Application hosting"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "User and access management"
+      }
+    ]
+  },
+  {
+    "CertificationId": 2,
+    "CertificationName": "Microsoft Certified: - Azure Fundamentals",
+    "Questions": [
+      {
+        "QuestionId": 6,
+        "QuestionText": "Which service provides virtual machines in Azure?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Azure Virtual Machines"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Azure App Service"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Azure SQL"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Azure Functions"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Azure Virtual Machines"
+      },
+      {
+        "QuestionId": 7,
+        "QuestionText": "What does Azure Blob Storage store?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Unstructured data"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Relational data"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Virtual machines"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Scripts"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Unstructured data"
+      },
+      {
+        "QuestionId": 8,
+        "QuestionText": "Which Azure service provides serverless computing?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Azure Functions"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Azure VM"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Azure SQL"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Azure Monitor"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Azure Functions"
+      },
+      {
+        "QuestionId": 9,
+        "QuestionText": "What does ARM stand for in Azure?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Azure Resource Manager"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Azure Resource Management"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Advanced Resource Module"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Application Runtime Manager"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Azure Resource Manager"
+      },
+      {
+        "QuestionId": 10,
+        "QuestionText": "Which tool is used for managing Azure resources via CLI?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Azure CLI"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Azure Portal"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Azure Power BI"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Azure AI Studio"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Azure CLI"
+      }
+    ]
+  },
+  {
+    "CertificationId": 3,
+    "CertificationName": "Google Cloud Associate Engineer",
+    "Questions": [
+      {
+        "QuestionId": 11,
+        "QuestionText": "Which service stores objects in Google Cloud?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Cloud Storage"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Compute Engine"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "BigQuery"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "App Engine"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Cloud Storage"
+      },
+      {
+        "QuestionId": 12,
+        "QuestionText": "What is used to deploy containers on GCP?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Kubernetes Engine"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Cloud Run"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "App Engine"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Compute Engine"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Kubernetes Engine"
+      },
+      {
+        "QuestionId": 13,
+        "QuestionText": "Which GCP service provides virtual machines?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Compute Engine"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "BigQuery"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Dataflow"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "App Engine"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Compute Engine"
+      },
+      {
+        "QuestionId": 14,
+        "QuestionText": "Which service is for managing IAM roles and permissions?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Cloud IAM"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Cloud Build"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Cloud Run"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Cloud SQL"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Cloud IAM"
+      },
+      {
+        "QuestionId": 15,
+        "QuestionText": "Which database is serverless in GCP?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Firestore"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Cloud SQL"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "BigTable"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Compute Engine"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Firestore"
+      }
+    ]
+  },
+  {
+    "CertificationId": 4,
+    "CertificationName": "Certified Kubernetes Administrator (CKA)",
+    "Questions": [
+      {
+        "QuestionId": 16,
+        "QuestionText": "Which file format defines Kubernetes objects?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "YAML"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "JSON"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "XML"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "INI"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "YAML"
+      },
+      {
+        "QuestionId": 17,
+        "QuestionText": "Which command lists pods in Kubernetes?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "kubectl get pods"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "kubectl pods"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "kubectl describe pods"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "kubectl show pods"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "kubectl get pods"
+      },
+      {
+        "QuestionId": 18,
+        "QuestionText": "What does a ReplicaSet ensure?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Desired number of pods running"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Load balancing"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Pod scheduling"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Volume creation"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Desired number of pods running"
+      },
+      {
+        "QuestionId": 19,
+        "QuestionText": "Which object exposes pods to the network?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Service"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "ConfigMap"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Secret"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Deployment"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Service"
+      },
+      {
+        "QuestionId": 20,
+        "QuestionText": "Which component runs on each Kubernetes node?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "kubelet"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "etcd"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "controller-manager"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "scheduler"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "kubelet"
+      }
+    ]
+  },
+  {
+    "CertificationId": 5,
+    "CertificationName": "React Developer Certification",
+    "Questions": [
+      {
+        "QuestionId": 21,
+        "QuestionText": "What is JSX in React?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "JavaScript XML"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "JSON format"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "JavaScript Extension"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "HTML parser"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "JavaScript XML"
+      },
+      {
+        "QuestionId": 22,
+        "QuestionText": "Which hook is used to manage state in React?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "useState"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "useEffect"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "useRef"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "useMemo"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "useState"
+      },
+      {
+        "QuestionId": 23,
+        "QuestionText": "React is primarily used for?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Building user interfaces"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Database management"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Server setup"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "File storage"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Building user interfaces"
+      },
+      {
+        "QuestionId": 24,
+        "QuestionText": "What function is used to render React elements?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "ReactDOM.render()"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "render()"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "createRoot()"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "React.create()"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "ReactDOM.render()"
+      },
+      {
+        "QuestionId": 25,
+        "QuestionText": "Props in React are?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Read-only data"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Writable variables"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Hooks"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Events"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Read-only data"
+      }
+    ]
+  },
+  {
+    "CertificationId": 6,
+    "CertificationName": "Angular Developer Certification",
+    "Questions": [
+      {
+        "QuestionId": 26,
+        "QuestionText": "Which language is primarily used to build Angular applications?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "TypeScript"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "JavaScript"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "C#"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Python"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "TypeScript"
+      },
+      {
+        "QuestionId": 27,
+        "QuestionText": "What command creates a new Angular component?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "ng generate component"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "ng new"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "npm init component"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "ng create"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "ng generate component"
+      },
+      {
+        "QuestionId": 28,
+        "QuestionText": "Which decorator defines a class as an Angular component?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "@Component"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "@NgModule"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "@Injectable"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "@Directive"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "@Component"
+      },
+      {
+        "QuestionId": 29,
+        "QuestionText": "Which file defines routes in Angular?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "app-routing.module.ts"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "main.ts"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "app.component.ts"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "index.html"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "app-routing.module.ts"
+      },
+      {
+        "QuestionId": 30,
+        "QuestionText": "Which directive is used for conditional rendering?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "*ngIf"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "*ngFor"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "*ngSwitch"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "*ngModel"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "*ngIf"
+      }
+    ]
+  },
+  {
+    "CertificationId": 7,
+    "CertificationName": "Node.js Backend Developer",
+    "Questions": [
+      {
+        "QuestionId": 31,
+        "QuestionText": "Which module is used to create an HTTP server in Node.js?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "http"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "fs"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "path"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "url"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "http"
+      },
+      {
+        "QuestionId": 32,
+        "QuestionText": "What does npm stand for?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Node Package Manager"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Node Project Manager"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "New Package Module"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Network Project Manager"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Node Package Manager"
+      },
+      {
+        "QuestionId": 33,
+        "QuestionText": "Which method is used to read files in Node.js?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "fs.readFile()"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "file.read()"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "http.read()"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "system.readFile()"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "fs.readFile()"
+      },
+      {
+        "QuestionId": 34,
+        "QuestionText": "Which framework is commonly used for web applications in Node.js?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Express.js"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "React.js"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Next.js"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Vue.js"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Express.js"
+      },
+      {
+        "QuestionId": 35,
+        "QuestionText": "Which keyword is used to handle asynchronous operations?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "async/await"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "defer"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "delay"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "pause"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "async/await"
+      }
+    ]
+  },
+  {
+    "CertificationId": 8,
+    "CertificationName": "Python Programming Professional",
+    "Questions": [
+      {
+        "QuestionId": 36,
+        "QuestionText": "Which keyword defines a function in Python?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "def"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "func"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "lambda"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "function"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "def"
+      },
+      {
+        "QuestionId": 37,
+        "QuestionText": "What is the output of print(type([]))?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "<class 'list'>"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "<class 'tuple'>"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "<class 'dict'>"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "<class 'set'>"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "<class 'list'>"
+      },
+      {
+        "QuestionId": 38,
+        "QuestionText": "Which library is used for data analysis?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "pandas"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "requests"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "os"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "flask"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "pandas"
+      },
+      {
+        "QuestionId": 39,
+        "QuestionText": "How do you install external Python packages?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "pip install"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "python add"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "import package"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "setup install"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "pip install"
+      },
+      {
+        "QuestionId": 40,
+        "QuestionText": "Which keyword is used for exception handling?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "try/except"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "throw/catch"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "on/error"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "catch/finally"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "try/except"
+      }
+    ]
+  },
+  {
+    "CertificationId": 9,
+    "CertificationName": "Java Full Stack Developer",
+    "Questions": [
+      {
+        "QuestionId": 41,
+        "QuestionText": "Which keyword is used to define a class in Java?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "class"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "define"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "object"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "structure"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "class"
+      },
+      {
+        "QuestionId": 42,
+        "QuestionText": "Which collection does not allow duplicates?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Set"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "List"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "ArrayList"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "LinkedList"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Set"
+      },
+      {
+        "QuestionId": 43,
+        "QuestionText": "What is the default value of a boolean variable in Java?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "false"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "true"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "0"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "null"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "false"
+      },
+      {
+        "QuestionId": 44,
+        "QuestionText": "Which framework is used for dependency injection?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Spring"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Hibernate"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Struts"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Maven"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Spring"
+      },
+      {
+        "QuestionId": 45,
+        "QuestionText": "Which tag is used for JSP scripting?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "<% %>"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "<script>"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "<jsp>"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "<%jsp%>"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "<% %>"
+      }
+    ]
+  },
+  {
+    "CertificationId": 10,
+    "CertificationName": "C# .NET Developer Certification",
+    "Questions": [
+      {
+        "QuestionId": 46,
+        "QuestionText": "Which keyword defines a class in C#?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "class"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "struct"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "define"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "object"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "class"
+      },
+      {
+        "QuestionId": 47,
+        "QuestionText": "What is the base class for all .NET classes?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "object"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "base"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "system"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "root"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "object"
+      },
+      {
+        "QuestionId": 48,
+        "QuestionText": "Which keyword is used for inheritance?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": ":"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "extends"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "inherits"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "implements"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": ":"
+      },
+      {
+        "QuestionId": 49,
+        "QuestionText": "Which access modifier allows access only within the same class?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "private"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "public"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "protected"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "internal"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "private"
+      },
+      {
+        "QuestionId": 50,
+        "QuestionText": "Which framework is used for web development in .NET?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "ASP.NET"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Entity Framework"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "WPF"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Xamarin"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "ASP.NET"
+      }
+    ]
+  },
+  {
+    "CertificationId": 11,
+    "CertificationName": "SQL Database Specialist",
+    "Questions": [
+      {
+        "QuestionId": 51,
+        "QuestionText": "Which SQL command retrieves data from a database?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "SELECT"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "INSERT"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "UPDATE"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "DELETE"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "SELECT"
+      },
+      {
+        "QuestionId": 52,
+        "QuestionText": "Which clause filters records?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "WHERE"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "GROUP BY"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "ORDER BY"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "HAVING"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "WHERE"
+      },
+      {
+        "QuestionId": 53,
+        "QuestionText": "What does DDL stand for?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Data Definition Language"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Data Driven Logic"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Data Design Language"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Database Description Language"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Data Definition Language"
+      },
+      {
+        "QuestionId": 54,
+        "QuestionText": "Which SQL function counts rows?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "COUNT()"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "SUM()"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "TOTAL()"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "NUMBER()"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "COUNT()"
+      },
+      {
+        "QuestionId": 55,
+        "QuestionText": "Which SQL command removes all records but not the table structure?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "TRUNCATE"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "DELETE"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "DROP"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "REMOVE"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "TRUNCATE"
+      }
+    ]
+  },
+  {
+    "CertificationId": 12,
+    "CertificationName": "Data Science and Machine Learning",
+    "Questions": [
+      {
+        "QuestionId": 56,
+        "QuestionText": "Which library is used for numerical computation in Python?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "NumPy"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Matplotlib"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Pandas"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Scikit-learn"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "NumPy"
+      },
+      {
+        "QuestionId": 57,
+        "QuestionText": "Which algorithm is used for classification problems?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Logistic Regression"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "K-Means"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "PCA"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Linear Regression"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Logistic Regression"
+      },
+      {
+        "QuestionId": 58,
+        "QuestionText": "Which term describes model overfitting prevention?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Regularization"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "Clustering"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Normalization"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Filtering"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Regularization"
+      },
+      {
+        "QuestionId": 59,
+        "QuestionText": "Which visualization library creates graphs in Python?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Matplotlib"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "NumPy"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Pandas"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "TensorFlow"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Matplotlib"
+      },
+      {
+        "QuestionId": 60,
+        "QuestionText": "Which library is used for machine learning in Python?",
+        "Options": [
+          {
+            "OptionId": 1,
+            "OptionText": "Scikit-learn"
+          },
+          {
+            "OptionId": 2,
+            "OptionText": "BeautifulSoup"
+          },
+          {
+            "OptionId": 3,
+            "OptionText": "Flask"
+          },
+          {
+            "OptionId": 4,
+            "OptionText": "Pillow"
+          }
+        ],
+        "CorrectOptionId": 1,
+        "CorrectOptionText": "Scikit-learn"
+      }
+    ]
+  }
+]
